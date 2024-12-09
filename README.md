@@ -1,6 +1,6 @@
 # Codes for R+R: Towards Reliable and Generalizable Differentially Private Machine Learning
 
-This repository contains the code for the paper "R+R: Towards Reliable and Generalizable Differentially Private Machine Learning".
+This repository contains the code for the paper "[R+R: Towards Reliable and Generalizable Differentially Private Machine Learning](https://github.com/wenxuan-Bao/Reliable-and-Generalizable-DPML/blob/master/DPML__ACSAC.pdf)".
 
 Note that this repository contains several existing repositories:
 
